@@ -23,7 +23,7 @@ body{
     }
     .menu li{
         transform: translateX(-25px);
-        height: 100px;
+        height: 60px;
     }
     .menu li span{
         display: none;
