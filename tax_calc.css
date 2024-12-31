@@ -104,7 +104,10 @@ button#reset:hover {
         display: flex;
         flex-direction: column;
     }
-
+    .dropdown_menu.open a{
+        color: black;
+        font-weight: bold;
+    }
     .chart_parent{
         height: 400px;
         width: 300px;
