@@ -192,7 +192,10 @@ input{
         width: 100%;
         max-width: 90%;
     }
-
+    .dropdown_menu.open a{
+        color: black;
+        font-weight: bold;
+    }
     button {
         width: 80%; /* Full-width buttons on smaller screens */
     }
